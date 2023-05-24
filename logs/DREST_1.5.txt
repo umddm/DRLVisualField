@@ -1,0 +1,6 @@
+MAE Normal = 2.229 
+N Normal = 2.292 
+T Normal = 0.597 
+MAE Abnormal = 2.374 
+N Abnormal = 3.536 
+T Abnormal = 2.647 
