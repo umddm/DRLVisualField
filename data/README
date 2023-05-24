@@ -1,0 +1,10 @@
+This folder contains our masked, deidentified patient visual field dataset.
+
+  Train # Training dataset 
+    normal.txt # 378 normal visual fields
+    abnormal.txt # 569 glaucoma visual fields
+  Test # Testing dataset
+    normal.txt # 126 normal visual fields
+    abnormal.txt # 189 glaucoma visual fields
+
+Due to privacy concerns, we are unable to release the complete visual field dataset. Consequently, we have included sensitivities only from the superior nasal vision area for each visual field (locations 17, 18, 24, 25, and 26 in Fig. 4 of our paper or locations 10, 11, 18, 19, and 20 in the dataset files). We sincerely apologize for any inconvenience caused.
